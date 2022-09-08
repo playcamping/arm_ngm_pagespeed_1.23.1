@@ -1,4 +1,5 @@
-# [ARM] aarch64 nginx pagespeed module for nginx 1.23.1
+#  Orcale cloud freetier VM.Standard.A1.Flex ubuntu 22.04
+## [ARM] aarch64 nginx pagespeed module for nginx 1.23.1
 
 1. cd /etc/nginx/modules
 
